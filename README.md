@@ -1,2 +1,19 @@
-# nlw-experts-event
-Project developed during the NLW-Expert event, featuring a course focused on the introduction to programming in HTML+CSS+JS, providing foundational knowledge in these languages. The course took place from February 5th to 8th, 2024.
+#HTML
+
+HyperText Markup Language
+
+Tag
+Atributos
+
+# CSS
+Cascading Style Sheet
+
+```js
+const mensagem = "Bom te ver aqui! "
+alert(mensagem + (10 * 100) + " abraços.")
+// bom te ver aqui! 1000 abraços.
+```
+## Array ou Vetores
+[]
+## Objetos
+{}
